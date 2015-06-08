@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-나는 인덱스다. 기헌2
+나는 인덱스다. 기헌23
 </body>
 </html>
